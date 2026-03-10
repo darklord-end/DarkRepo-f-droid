@@ -1,2 +1,0 @@
-# DarkRepo-f-droid
-Repository 
